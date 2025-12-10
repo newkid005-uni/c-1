@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(950,37): error C2059: 구문 오류: '('
+  (소스 파일 'Source.c'을(를) 컴파일하는 중)
+  
